@@ -4,7 +4,7 @@
   "description": "An Odin Project mini project on a mini message board using nodejs",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js"
   },
   "author": "Isaac Antwi",
   "license": "ISC",
